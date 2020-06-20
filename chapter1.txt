@@ -1,0 +1,7 @@
+It was the best of the times, it was the worst of the times.
+Time to go ahead!
+-open chapter1.txt is not opening
+  vim chapter.txt opened
+  nano chapter1.txt
+  gedit chapter1.txt
+  notepad chapter1.txt
